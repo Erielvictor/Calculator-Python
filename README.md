@@ -13,6 +13,16 @@
  <img src= "https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC">
 </div>
 
+<div align="center">
+ <a href="www.linkedin.com/in/eriel-victor-candido-soares-batista">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"
+      </a>
+
+
+ 
+</div>
+
+
 ###
 
 ###
